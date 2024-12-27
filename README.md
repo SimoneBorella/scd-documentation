@@ -1,3 +1,2 @@
 # scd-documentation
-Repository to keep updated all the documentation. 
-Here are shared pdf files and LaTeX source files, import zip source on overleaf to update. 
+Full documentation of the Squadra Corse Driverless (SCD) Formula SAE team from Polytechnic of Turin. 
